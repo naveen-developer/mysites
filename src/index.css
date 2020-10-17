@@ -48,5 +48,9 @@
 			width: 10rem;
 			margin: 8px 3px;
     	}
+	.container, .container-fluid{
+			padding-left: 0!important;
+			padding-right: 0!important;
+		}
 
     }
